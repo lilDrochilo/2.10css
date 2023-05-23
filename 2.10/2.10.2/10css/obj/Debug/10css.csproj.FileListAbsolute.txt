@@ -1,0 +1,8 @@
+C:\Users\timbi\source\repos\10css\10css\obj\Debug\10css.csproj.AssemblyReference.cache
+C:\Users\timbi\source\repos\10css\10css\obj\Debug\10css.csproj.SuggestedBindingRedirects.cache
+C:\Users\timbi\source\repos\10css\10css\obj\Debug\10css.csproj.CoreCompileInputs.cache
+C:\Users\timbi\source\repos\10css\10css\bin\Debug\10css.exe.config
+C:\Users\timbi\source\repos\10css\10css\bin\Debug\10css.exe
+C:\Users\timbi\source\repos\10css\10css\bin\Debug\10css.pdb
+C:\Users\timbi\source\repos\10css\10css\obj\Debug\10css.exe
+C:\Users\timbi\source\repos\10css\10css\obj\Debug\10css.pdb

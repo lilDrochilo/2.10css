@@ -1,0 +1,15 @@
+C:\Users\timbi\source\repos\2.10.3\2.10.3\bin\Debug\net7.0\2.10.3.exe
+C:\Users\timbi\source\repos\2.10.3\2.10.3\bin\Debug\net7.0\2.10.3.deps.json
+C:\Users\timbi\source\repos\2.10.3\2.10.3\bin\Debug\net7.0\2.10.3.runtimeconfig.json
+C:\Users\timbi\source\repos\2.10.3\2.10.3\bin\Debug\net7.0\2.10.3.dll
+C:\Users\timbi\source\repos\2.10.3\2.10.3\bin\Debug\net7.0\2.10.3.pdb
+C:\Users\timbi\source\repos\2.10.3\2.10.3\obj\Debug\net7.0\2.10.3.csproj.AssemblyReference.cache
+C:\Users\timbi\source\repos\2.10.3\2.10.3\obj\Debug\net7.0\2.10.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timbi\source\repos\2.10.3\2.10.3\obj\Debug\net7.0\2.10.3.AssemblyInfoInputs.cache
+C:\Users\timbi\source\repos\2.10.3\2.10.3\obj\Debug\net7.0\2.10.3.AssemblyInfo.cs
+C:\Users\timbi\source\repos\2.10.3\2.10.3\obj\Debug\net7.0\2.10.3.csproj.CoreCompileInputs.cache
+C:\Users\timbi\source\repos\2.10.3\2.10.3\obj\Debug\net7.0\2.10.3.dll
+C:\Users\timbi\source\repos\2.10.3\2.10.3\obj\Debug\net7.0\refint\2.10.3.dll
+C:\Users\timbi\source\repos\2.10.3\2.10.3\obj\Debug\net7.0\2.10.3.pdb
+C:\Users\timbi\source\repos\2.10.3\2.10.3\obj\Debug\net7.0\2.10.3.genruntimeconfig.cache
+C:\Users\timbi\source\repos\2.10.3\2.10.3\obj\Debug\net7.0\ref\2.10.3.dll
