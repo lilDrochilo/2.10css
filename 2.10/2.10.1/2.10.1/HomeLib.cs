@@ -81,10 +81,6 @@ namespace First2._10
                                       $"Author: {p.Author}\n" +
                                       $"Year of publication: {p.YearOfPublication}\n\n");
                     break;
-
-                default:
-                    Console.WriteLine("Error xD");
-                    break;
             }
         }
 
